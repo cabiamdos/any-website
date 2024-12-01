@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "any-website",
+	"name": "Any Website Plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Inject any website in your notes. This way you can integrate services like trello within the obsidian engine",
+	"author": "Willi",
+	"authorUrl": "https://github.com/cabiamdos/any-website",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }

@@ -1,4 +1,6 @@
 import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting } from 'obsidian';
+import 'dotenv/config'
+
 
 // Remember to rename these classes and interfaces!
 
