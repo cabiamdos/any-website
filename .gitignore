@@ -8,6 +8,9 @@
 # env
 .env
 
+# dist files
+dist
+
 # npm
 node_modules
 
